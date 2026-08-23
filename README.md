@@ -206,3 +206,14 @@ Built by a team of 4 students as part of the **Computer Vision** course — **6t
 | **Department** | Artificial Intelligence |
 | **Course** | Computer Vision |
 | **Semester** | 6th Semester |
+
+---
+
+## 👨‍💻 Author
+
+**Hamza Asif**  
+BS Artificial Intelligence — DUET, Karachi  
+[![GitHub](https://img.shields.io/badge/GitHub-Hamza--Asif--ai-black?style=flat-square&logo=github)](https://github.com/Hamza-Asif-ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Asif-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/hamzaasif-ai)
+
+---
